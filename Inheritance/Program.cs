@@ -36,7 +36,7 @@ namespace Inheritance
                 Name = "Liberty",
                 Age = 22,
                 AnimalType = "Bird",
-                Color = "dark brown bodies and wings with a white head and tail",
+                Color = "Dark brown bodies and wings with a white head and tail",
                 Species = "Bald Eagle",
                 Predators = "Adult bald eagles have few predators, allowing them to nest on the ground without fear.",
                 Food = "Bald eagles prey that includes fish, squirrels, wading birds, ducks",                        
